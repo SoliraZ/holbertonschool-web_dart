@@ -1,6 +1,6 @@
-# 0x00. Hello Dart
+# 0x01. Dart - Functions
 
-Introduction to Dart programming.
+Introduction to Dart functions.
 
 ## Requirements
 
